@@ -1,5 +1,4 @@
 # Dayan
-Hello world!
-Nice to meet you, my name is Raphael Dayan.
-I'm new to data science and github. I will be sharing my work here.
-Stay tuned!
+My name is Raphael Dayan, I'm a business administration student that have a passion for data science.
+I will be sharing my work here. 
+Nice to meet you.
