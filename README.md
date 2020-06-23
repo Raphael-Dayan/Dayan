@@ -8,6 +8,6 @@ Decision Trees - Aula de árvore de decisão que eu dei no GVCode. Nós exploram
 
 TIR dos Projetos - projeto feito para um professor da FGV que estava interessado em saber as taxas internas de retorno de projetos do governo. Os projetos estavam descritos em PDFs, retirados de site governamentais. O código produzido lê um arquivo .txt (que originalmente era um PDF), encontra a TIR e coloca o resultado em um arquivo excel.
 
-LDA eleições - Usamos Latent Dirichlet Allocation para entender o resultado das eleições de 2018. Conseguimos identificar 11 perfis de eleitores, analisamos os resultados e plotamos-os no mapa de São Paulo. O trabalho foi orientado pelo Professor Paulo Hubert. OBS: estou fazendo os ajustes finais no notebook, por isso talvez o notebook não esteja disponível no repositório.
+LDA eleições - Usamos Latent Dirichlet Allocation para entender o resultado das eleições de 2018. Conseguimos identificar 11 perfis de eleitores, analisamos os resultados e plotamos-os no mapa de São Paulo. O trabalho foi orientado pelo Professor Paulo Hubert. OBS: estou fazendo os ajustes finais no notebook, por isso talvez o notebook não esteja disponível no repositório no momento.
 
 Impacts of not removing outliers on a dataset - a simple notebook that answered my question "What happens when we forget to remove outliers?". It showed me numerically how a linear regression loose considerable performance when we don't remove outliers.
